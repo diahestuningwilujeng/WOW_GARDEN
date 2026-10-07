@@ -5,3 +5,10 @@ Fresh Flowers:
 3. Tulip        Rp. 18.000
 4. Lily         Rp. 23.000
 5. Gerbera      Rp. 25.000
+
+
+Bouquets
+
+1. Small mixed flower    Rp.  99.000
+2. Medium mixed flower   Rp. 159.000
+3. Large mixed flower    Rp. 199.000
