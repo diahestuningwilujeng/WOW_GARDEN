@@ -11,7 +11,6 @@ E-Wallet (Gopay, OVO, Dana, Shopeepay)
 ============================================================
 
 Fresh Flowers:
-
 1. Sunflower	Rp. 16.000
 2. Rose         Rp. 16.500
 3. Tulip        Rp. 18.000
@@ -23,13 +22,16 @@ Seasonal Flowers:
 2. Baby's Breath Rp. 30.000
 
 Bouquets:
-
 1. Small mixed flower    Rp.  99.000
 2. Medium mixed flower   Rp. 159.000
 3. Large mixed flower    Rp. 199.000
 
-Add-ons:
+Occasions:
+1. Graduation bouquet      Rp. 175.000
+2. Wedding bouquet         Rp. 450.000
+3. Condolence flower board Rp. 350.000
 
+Add-ons:
 1. Greeting Card        Rp. 5.000
 2. Gift Wrapping        Rp. 10.000
 3. Chocolate Bar        Rp. 15.000
