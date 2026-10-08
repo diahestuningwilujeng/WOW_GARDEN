@@ -16,6 +16,8 @@ Fresh Flowers:
 3. Tulip        Rp. 18.000
 4. Lily         Rp. 23.000
 5. Gerbera      Rp. 25.000
+6. Dahlia       Rp. 17.000
+7. Aster        Rp. 18.000
 
 Seasonal Flowers:
 1. Peony         Rp. 20.000
